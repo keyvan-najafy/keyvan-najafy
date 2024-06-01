@@ -5,12 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyvan-najafy" alt="keyvan-najafy" /></a> </p>
 
-- You can view my latest resume at this link or at my <a href="https://linkedin.com/in/keyvan-najafy" target="blank">LinkedIn Profile</a> 
+- Please view my latest resume at <a href="https://mega.nz/file/wwkDWARR#mQjlnsvnwcDfFk_eYpyx4BuqB1NLFyF3oWGCJ3-SymA"  target=blank>this link</a> or at my <a href="https://linkedin.com/in/keyvan-najafy" target="blank">LinkedIn Profile</a> 
 
-- 📫 How to reach me **najafykeyvan@gmail.com**
+- 📫 How to reach me: **najafykeyvan@gmail.com**
 
-- ⚡Fun fact about me
-
+- ⚡Fun fact about me: <br/>
   My family name is usually written as "Najafi" but for the sake of symmetry with my first name ("Keyvan"), I write it as "Najafy". <br/>
   This holds true for all my profiles & official documents. <br/>
   Also, for one year I used the "i" version in my LinkedIn to see how much my views would change but now it is returned to "y" version due to nonsignificant change at 95% confidence level.
