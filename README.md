@@ -9,11 +9,6 @@
 
 - 📫 How to reach me: **najafykeyvan@gmail.com**
 
-- ⚡Fun fact about me: <br/>
-  My family name is usually written as "Najafi" but for the sake of symmetry with my first name ("Keyvan"), I write it as "Najafy". <br/>
-  This holds true for all my profiles & official documents. <br/>
-  Also, for one year I used the "i" version in my LinkedIn to see how much my views would change but now it is returned to "y" version due to nonsignificant change at 95% confidence level.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keyvan-najafy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keyvan-najafy" height="30" width="40" /></a>
