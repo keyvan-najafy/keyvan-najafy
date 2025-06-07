@@ -7,8 +7,6 @@
 
 - **Please view my latest resume at <a href="https://mega.nz/file/wwkDWARR#mQjlnsvnwcDfFk_eYpyx4BuqB1NLFyF3oWGCJ3-SymA"  target=blank>this link</a> or at my <a href="https://linkedin.com/in/keyvan-najafy" target="blank">LinkedIn Profile</a>**
 
-- 📫 How to reach me: **najafykeyvan@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keyvan-najafy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keyvan-najafy" height="30" width="40" /></a>
