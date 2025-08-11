@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyvan-najafy" alt="keyvan-najafy" /></a> </p>
 
-- **Please view my latest resume at <a href="https://mega.nz/file/wwkDWARR#mQjlnsvnwcDfFk_eYpyx4BuqB1NLFyF3oWGCJ3-SymA"  target=blank>this link</a> or at my <a href="https://linkedin.com/in/keyvan-najafy" target="blank">LinkedIn Profile</a>**
+- **Please view my latest resume at my <a href="https://linkedin.com/in/keyvan-najafy" target="blank">LinkedIn Profile</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
