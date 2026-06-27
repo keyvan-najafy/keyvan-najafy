@@ -10,11 +10,11 @@ My interests include <b>Machine Learning, Large Language & Vision Models (LLM/VL
 
 <p align="center">
 Most of my projects are maintained on privately hosted GitLab servers, so this profile may not fully reflect my day‑to‑day work.  
-I still try to contribute to the open‑source community whenever possible, after learning a great deal from it over the years.
+I still try to contribute to the open‑source community whenever possible, after learning a great deal from them over the years.
 </p>
 
 <p align="center">
-I enjoy exploring how ideas from physics, statistics, and computation can help us better understand complex data and systems.
+I enjoy exploring how ideas from physics, statistics, and computation that can help us better understand complex data and systems.
 </p>
 
 ---
